@@ -10,4 +10,4 @@ Built in JavaScript using React and Material-UI.
 ## Installation
 1. Clone the repository with `git clone https://github.com/anandmathi/sieve`.
 2. Run `npm install`.
-3. Start the application with `npm start` and navigate to [localhost:3000](localhost:3000) in your web browser.
+3. Start the application with `npm start` and navigate to [localhost:3000](https:///localhost:3000). in your web browser.
