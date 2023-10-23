@@ -4,8 +4,7 @@ The Sieve of Eratosthenes is an efficient algorithm used for discovering all pri
 
 Built in JavaScript using React and Material-UI.
 
-## Demo
-(add demo here)
+[Live Demo](https://sieve-algo.netlify.com/)
 
 ## Installation
 1. Clone the repository with `git clone https://github.com/anandmathi/sieve`.
